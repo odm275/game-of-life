@@ -4,7 +4,7 @@ const Footer = () => (
   <footer>
     <p className="footer">
       {" "}
-      <a href="">Coded by Oscar Mejia</a>
+      <a href="https://odm275.github.io/portfolio/">Coded by Oscar Mejia</a>
     </p>
   </footer>
 );
